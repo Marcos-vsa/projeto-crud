@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: gray;
+}
+
+#cadastro{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 2rem;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+#lista1{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 2rem;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+#lista2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 2rem;
+    border-radius: 15px;
+    margin: 10px;
+}
